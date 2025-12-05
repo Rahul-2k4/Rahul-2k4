@@ -86,7 +86,8 @@
 
 ## GitHub Stats  
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-2k4&hide_border=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rahul-2k4&show_icons=true&theme=dracula&hide_border=true" height="150" alt="Rahul-2k4 GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-2k4&layout=compact&theme=dracula&hide_border=true" height="150" alt="Rahul-2k4 most used programming languages" />
 </div>  
 
 <br/>  
