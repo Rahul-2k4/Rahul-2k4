@@ -1,6 +1,3 @@
-# Enhanced GitHub Profile README
-# Replace your existing Rahul-2k4/Rahul-2k4/README.md with this
-
 <h1 align="center">Hi, I'm Rahul Tripathi 👋</h1>
 
 <p align="center">
