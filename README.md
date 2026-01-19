@@ -77,6 +77,7 @@ AI-powered resume screening pipeline
 - 📊 **80% reduction** in HR screening time
 - 📄 Processed **1,000+ documents**
 - ☁️ Deployed on **AWS EC2** with Docker
+- 🚀 [**Live Demo**](https://huggingface.co/spaces/Rahul7009/resume-shortlister-demo)
 
 `Python` `FastAPI` `AWS` `NLP` `Docker`
 
@@ -98,12 +99,13 @@ ML classifier for news authenticity
 <td width="50%">
 
 ### [E-commerce with AI](https://github.com/Rahul-2k4/Ecommerce-with-Ai_powered-suggestion-)
-Full-stack platform with recommendations
+Full-stack platform with virtual try-on
 - 👥 **500+ concurrent users**
 - 📈 **30% CTR improvement**
 - 🔄 **2K+ requests/min** throughput
+- 🚀 [**Live Demo**](https://huggingface.co/spaces/Rahul7009/virtual-tryon-demo)
 
-`React` `Node.js` `AWS Lambda` `Python`
+`React` `FastAPI` `Gemini AI` `Python`
 
 </td>
 <td width="50%">
