@@ -88,8 +88,9 @@ ML classifier for news authenticity
 - 🎯 **95% accuracy** on 20K+ articles
 - ⚡ **70% latency reduction** 
 - 🔬 Custom NLP feature engineering
+- 🚀 [**Live Demo**](https://huggingface.co/spaces/Rahul7009/fake-news-detection)
 
-`Python` `scikit-learn` `Flask` `GCP`
+`Python` `scikit-learn` `Gradio` `HuggingFace`
 
 </td>
 </tr>
