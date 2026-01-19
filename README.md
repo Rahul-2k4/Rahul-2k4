@@ -1,111 +1,145 @@
-<div align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" style="width: 100%" />
-</div>  
+# Enhanced GitHub Profile README
+# Replace your existing Rahul-2k4/Rahul-2k4/README.md with this
 
-### <div align="center">Rahul Tripathi — full-stack developer crafting scalable apps and solving real problems 🚀</div>  
+<h1 align="center">Hi, I'm Rahul Tripathi 👋</h1>
 
-- 🔭 I’m currently working on improving my GitHub profile and automation tools.  
-- 🌱 I’m currently learning Hyperledger and Kubernetes.  
-- ❓ Happy to answer questions about the MERN stack, backend architecture, and related tooling.  
-- ⚡ Fun fact: I’m team tabs, not spaces.  
+<p align="center">
+  <a href="https://linkedin.com/in/rahul-tripathi-335347353"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Rahul-2k4"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://rahul2k4.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="mailto:rahultripathi7009@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rahul-2k4&style=flat-square&color=blue" alt="Profile views"/>
+  <img src="https://img.shields.io/badge/LeetCode-1700+-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Codeforces-1500+-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" />
+</p>
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+---
 
+## 🎯 About Me
 
+**Software Development Engineer** passionate about building scalable, distributed systems and AI-powered applications.
 
-### Frontend  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
-<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-</div>
+- 🎓 **B.E. Information Technology** @ Army Institute of Technology, Pune (2023-2027)
+- 💼 **Focus Areas:** Backend Development, Distributed Systems, Machine Learning
+- 🏆 **Adobe GenSolve Hackathon** - Top 100 Teams Nationwide
+- 📊 **500+ DSA Problems** solved across LeetCode & Codeforces
 
-</td><td valign="top" width="33%">
+---
 
+## 🛠️ Tech Stack
 
+<table>
+<tr>
+<td valign="top" width="33%">
 
-### Backend  
-<div align="center">  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-</div>
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 
-</td><td valign="top" width="33%">
+</td>
+<td valign="top" width="33%">
 
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
+</td>
+<td valign="top" width="33%">
 
-### DevOps  
-<div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-</div>
+### Frameworks
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)
 
-</td></tr></table>  
+</td>
+</tr>
+</table>
 
-<br/>  
+---
 
+## 🚀 Featured Projects
 
-## Connect with me  
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-<a href="https://github.com/Rahul-2k4" target="_blank">
-<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" />
-</a>
+### [Resume Shortlister Agent](https://github.com/Rahul-2k4/resume_shorlister_agent)
+AI-powered resume screening pipeline
+- 📊 **80% reduction** in HR screening time
+- 📄 Processed **1,000+ documents**
+- ☁️ Deployed on **AWS EC2** with Docker
 
-<a href="https://www.linkedin.com/in/rahul-tripathi-335347353/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+`Python` `FastAPI` `AWS` `NLP` `Docker`
 
-<a href="https://www.instagram.com/_rahul2k4/" target="_blank">
-<img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+</td>
+<td width="50%">
 
-</div>  
+### [Fake News Detection](https://github.com/Rahul-2k4/Fake_news_Detection)
+ML classifier for news authenticity
+- 🎯 **95% accuracy** on 20K+ articles
+- ⚡ **70% latency reduction** 
+- 🔬 Custom NLP feature engineering
 
-<br/>  
+`Python` `scikit-learn` `Flask` `GCP`
 
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-## GitHub Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rahul-2k4&show_icons=true&theme=dracula&hide_border=true" height="150" alt="Rahul-2k4 GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-2k4&layout=compact&theme=dracula&hide_border=true" height="150" alt="Rahul-2k4 most used programming languages" />
-</div>  
+### [E-commerce with AI](https://github.com/Rahul-2k4/Ecommerce-with-Ai_powered-suggestion-)
+Full-stack platform with recommendations
+- 👥 **500+ concurrent users**
+- 📈 **30% CTR improvement**
+- 🔄 **2K+ requests/min** throughput
 
-<br/>  
+`React` `Node.js` `AWS Lambda` `Python`
 
+</td>
+<td width="50%">
 
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If everything works, this section will auto-update via GitHub Actions.  
-<!-- BLOG-POST-LIST:END -->  
+### Open Source Contributions
+- [CCExtractor](https://github.com/CCExtractor/ccextractor) - C
+- [Google DeepMind Optax](https://github.com/google-deepmind/optax) - Python
+- [AsyncAPI CLI](https://github.com/asyncapi/cli) - TypeScript
 
-<br/>  
+</td>
+</tr>
+</table>
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Rahul-2k4&style=flat-square" />
-</div>  
+---
 
-<br/>  
+## 📈 GitHub Stats
 
-----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rahul-2k4&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-2k4&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul-2k4&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
 
+---
+
+## 🏆 Achievements
+
+- 🥇 **Adobe GenSolve Hackathon** - Top 100/10,000+ teams (2024)
+- 💻 **LeetCode** - 1700+ Rating, 500+ problems
+- 📊 **Codeforces** - 1500+ Rating
+- 🌟 **GitHub Pro** - Active open source contributor
+
+---
+
+<p align="center">
+  <i>Open to SDE opportunities | Let's connect!</i>
+</p>
