@@ -19,7 +19,6 @@
 
 **Software Development Engineer** passionate about building scalable, distributed systems and AI-powered applications.
 
-- 🎓 **B.E. Information Technology** @ Army Institute of Technology, Pune (2023-2027)
 - 💼 **Focus Areas:** Backend Development, Distributed Systems, Machine Learning
 - 🏆 **Adobe GenSolve Hackathon** - Top 100 Teams Nationwide
 - 📊 **500+ DSA Problems** solved across LeetCode & Codeforces
