@@ -1,85 +1,64 @@
 # Rahul Tripathi
 
-AI/backend engineer focused on agent tooling, retrieval workflows, open-source systems, and verification-heavy software.
+**GSoC 2026 | Open-source systems, backend, AI tooling**
+
+Selected for GSoC 2026 with CCExtractor Development to build a COSMIC-based Wayland session for Regolith.
 
 <p>
   <a href="https://rahul2k4.vercel.app">Portfolio</a> |
-  <a href="https://linkedin.com/in/rahul-tripathi-ai">LinkedIn</a> |
-  <a href="mailto:rahultripathi7009@gmail.com">Email</a>
+  <a href="https://linkedin.com/in/rahul-tripathi-ai">LinkedIn</a>
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,ts,js,cpp,django,fastapi,docker,aws,gcp,linux,github" alt="Python, TypeScript, JavaScript, C++, Django, FastAPI, Docker, AWS, GCP, Linux, GitHub" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,rust,cpp,django,fastapi,docker,aws,gcp,linux,github" alt="Python, TypeScript, JavaScript, Rust, C++, Django, FastAPI, Docker, AWS, GCP, Linux, GitHub" />
 </p>
 
-## Current Focus
+## what I work on
 
-- Building AI-assisted developer and recruiter workflows with Python, TypeScript, and LLM tooling.
-- Working on retrieval, persistent agent memory, and cross-session knowledge systems.
-- Packaging open-source proof work so reviewers can inspect the problem, implementation, and evidence quickly.
+- Linux and Wayland systems work, especially session tooling, packaging, and reproducible validation
+- Backend and developer tooling with Python, TypeScript, Node.js, and Docker
+- AI workflows that stay inspectable: retrieval, audit trails, ranking pipelines, and human-in-the-loop automation
 
-## Selected Work
+## selected work
 
-### [OpenOutreach](https://github.com/Rahul-2k4/OpenOutreach)
+### [Regolith COSMIC Wayland session](https://github.com/Rahul-2k4/cosmic-gsoc)
 
-Student-focused recruiter outreach assistant built with Python, Django, Playwright, Docker, and LLM workflows.
-
-- Helps students research leads and prepare targeted outreach.
-- Includes a reproducible app structure and demo evidence.
-- Built around practical workflow automation rather than a toy chatbot.
-
-### [NotebookLM Productivity Suite](https://github.com/Rahul-2k4/notebooklm-productivity-suite)
-
-AI productivity toolkit for automated ingestion, cross-notebook semantic search, and developer CLI workflows.
-
-- Focuses on retrieval-heavy workflows and knowledge navigation.
-- Uses agent-style automation patterns for repeatable research and organization.
-- Shows my interest in AI tools that improve real work loops.
+GSoC 2026 project to build a COSMIC-based Wayland session for Regolith and remove GNOME from the startup path where packaging and runtime validation allow it.
 
 ### [NSCS Audit Trail Prototype](https://github.com/Rahul-2k4/nscs-audit-trail-prototype)
 
-Audit-trail prototype with proof logs, Bloom accumulator checks, and auditor verification flow.
+Zero-dependency audit-trail demo with proof logs, Bloom accumulator checks, and a reviewer-facing verification flow.
 
-- Designed around tamper-evident review and verification.
-- Uses JavaScript/Node.js to model integrity checks and reviewer-facing evidence.
-- Good example of my systems/security-adjacent project work.
+### [OpenOutreach](https://github.com/Rahul-2k4/OpenOutreach)
 
-### [Resume Shortlister Agent](https://github.com/Rahul-2k4/resume_shorlister_agent)
-
-AI-powered candidate ranking system using OCR/NLP, FastAPI, AWS, and Docker.
-
-- Processes resume data into ranked candidate outputs.
-- Deployed demo: https://huggingface.co/spaces/Rahul7009/resume-shortlister-demo
-- Shows applied NLP, API design, and deployment practice.
-
-### [Fake News Detection](https://github.com/Rahul-2k4/Fake_news_Detection)
-
-End-to-end misinformation classification pipeline using Python, scikit-learn, NLP, Flask, and GCP.
-
-- Published with a live Hugging Face demo.
-- Deployed demo: https://huggingface.co/spaces/Rahul7009/fake-news-detection
-- Useful as a compact ML pipeline example.
+Human-in-the-loop outreach research tool built with Python, Django, Playwright, Docker, and LLM workflows.
 
 ### [Cacti SATP Demo Doctor](https://github.com/Rahul-2k4/cacti-satp-demo-doctor)
 
-Prototype CLI for checking Hyperledger Cacti SATP demo status and audit evidence.
+CLI for checking Hyperledger Cacti SATP demo state, logs, and audit evidence.
 
-- Built around open-source validation and debugging workflows.
-- Connects my backend/tooling work with distributed-system interoperability.
+### [Resume Shortlister Agent](https://github.com/Rahul-2k4/resume_shorlister_agent)
 
-## Open Source
+OCR/NLP candidate-ranking pipeline built with FastAPI, AWS, and Docker. Demo: [Hugging Face](https://huggingface.co/spaces/Rahul7009/resume-shortlister-demo)
 
-I have worked across open-source and proof-driven systems including Hyperledger Cacti, COSMIC/GSoC-related work, LF Decentralized Trust workflows, and C4GT proposal proof packages.
+## open source and proof work
 
-## Tech Stack
+- GSoC 2026 with CCExtractor Development
+- LF Decentralized Trust workflows across Hyperledger Cacti and Identus
+- C4GT proof packets and proposal evidence
+- Reproducible logs, screenshots, and verification notes for reviewer-facing technical work
 
-Python, TypeScript, JavaScript, C++, FastAPI, Django, Node.js, Docker, AWS, GCP, GitHub Actions, Linux, NLP, retrieval systems, LLM tooling.
+## highlights
 
-## Competitive Programming
+- Adobe GenSolve hackathon: top 100 teams out of 10,000+ participants
+- LeetCode 1800, Codeforces 1700, and 500+ DSA problems solved
+- Selected for NVIDIA NGC / AI Aerial access
 
-500+ DSA problems solved across LeetCode and Codeforces, with resume evidence available through my portfolio and application materials.
+## stack
 
-## Contact
+Python, TypeScript, JavaScript, Rust, C++, FastAPI, Django, Node.js, Docker, Linux, Wayland, systemd, D-Bus, AWS, GCP, NLP, retrieval systems, and LLM tooling.
+
+## contact
 
 - Portfolio: https://rahul2k4.vercel.app
 - LinkedIn: https://linkedin.com/in/rahul-tripathi-ai
